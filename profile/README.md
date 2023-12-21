@@ -4,13 +4,13 @@
 
 # Machine Vision Laboratory
 
-*Applying innovate vision and laser technologies to industry*
+*Applying innovative vision and laser technologies to the industry*
 
 
+We are an interdisciplinary team, who introduces computer vision and laser technologies to industry. We focus on the design and implementation of advanced vision systems, including solutions based on the latest machine learning solutions, as well as the research, development and optimization of laser and laser-hybrid machining technologies, along with process monitoring and control tasks.
 
-We are an interdisciplinary team, who introduces computer vision and laser technologies to industry. We focus on the design and implementation of advanced vision systems, including solutions based on the latest machine learning solutions, as well as the research, development and optimization of laser and laser-hybrid machining technologies along with process monitoring and control tasks.
 
-We are open to new challenges in various areas of industry and science
+We are open to new challenges in various areas of industry and science.
 
 ---
 
